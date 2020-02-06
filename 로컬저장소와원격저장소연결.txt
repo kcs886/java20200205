@@ -1,0 +1,7 @@
+git (내pc)로컬저장소와 (github)원격저장소 연결
+ c드라이브에 git2020 폴더생성[로컬]
+#1 git init  --폴더 공간안에 숨김파일 .git이생김 -인덱스역할을 함 행위를 기억을해줌
+#2 git remote add origin https://github.com/kcs886/java20200205.git (서버)
+-로컬 반응없는게 정상   repo이름이 java20200205
+#3 git remot -v       //연결 확인하기  
+-두줄이뜸  연결성공
